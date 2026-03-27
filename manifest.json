@@ -1,0 +1,51 @@
+{
+  "background_color": "#ffffff",
+  "description": "A fun 2D multiplayer worm battle game.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Worms Fight Arena",
+  "orientation": "landscape",
+  "scope": "./",
+  "short_name": "Worms Arena",
+  "start_url": "./",
+  "theme_color": "#eeeeee",
+  "icons": [
+    {
+      "src": "https://img.itch.zone/aW1nLzI2MzM2NjE2LnBuZw==/32x32%23/NU1gT3.png",
+      "type": "image/png",
+      "sizes": "32x32",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 32,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://img.itch.zone/aW1nLzI2MzM2NjE2LnBuZw==/original/s4yJWJ.png",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://chetasgamer.itch.io/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "lang": "en"
+}
