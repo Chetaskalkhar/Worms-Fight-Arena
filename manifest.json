@@ -1,6 +1,5 @@
 {
   "background_color": "#ffffff",
-  "description": "A fun 2D multiplayer worm battle game.",
   "dir": "ltr",
   "display": "standalone",
   "name": "Worms Fight Arena",
@@ -9,19 +8,10 @@
   "short_name": "Worms Arena",
   "start_url": "/",
   "theme_color": "#eeeeee",
-  "icons": [
-    {
-      "src": "icon-512.png",
-      "type": "image/png",
-      "sizes": "512x512",
-      "isSquare": true,
-      "isPng": true,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 32,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
-  ],
-  "lang": "en"
+  "id": "worms-fight-arena",
+  "description": "A fun 2D multiplayer worm battle game",
+  "lang": "en",
+  "categories": [
+    "games"
+  ]
 }
