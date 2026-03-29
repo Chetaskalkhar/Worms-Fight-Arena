@@ -1,5 +1,5 @@
 {
-  "background_color": "#ffffff",
+  "background_color": "#05070c",
   "description": "A fun 2D multiplayer worm battle game.",
   "dir": "ltr",
   "display": "fullscreen",
@@ -8,7 +8,7 @@
   "scope": "/Worms-Fight-Arena/",
   "short_name": "Worms Arena",
   "start_url": "/Worms-Fight-Arena/",
-  "theme_color": "#000000",
+  "theme_color": "#05070c",
   "id": "worms-fight-arena",
   "lang": "en",
   "categories": ["games"],
